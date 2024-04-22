@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "David Xu"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  pronouns         : # example: "He/Him"  
+  bio              : "2A Student at University of Waterloo"
+  location         : "Waterloo ON"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "davidxu2728@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
