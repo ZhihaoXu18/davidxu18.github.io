@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Second year Honour of Mathmetic Undergraduate student at University of Waterloo.  
+My name is David Xu, and I am currently a second-year Honours Mathematics undergraduate at the University of Waterloo, where I am deepening my expertise in analytical thinking and advanced problem-solving techniques.
+
+My academic journey is complemented by demonstrated leadership in both scholastic and customer service settings. I have a keen interest in leveraging my mathematical skills towards innovative applications in investment and risk management.
+
+Through my studies and practical experiences, I am continuously exploring how quantitative analysis can drive better decision-making processes in the financial sector. Join me as I share my insights, projects, and the lessons I learn along the way.
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
