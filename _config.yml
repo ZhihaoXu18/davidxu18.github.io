@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "WechatIMG33.jpg"
+  avatar           : images/WechatIMG33.jpg
   name             : "David Xu"
   pronouns         : # example: "He/Him"  
   bio              : "2A Student at University of Waterloo"
@@ -35,7 +35,6 @@ author:
   github           : "ZhihaoXu18"
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # davidxu18 
   flickr           : # Username
   foursquare       : # Username
