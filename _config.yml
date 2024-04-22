@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "David Xu"
-  name             : "Your Sidebar Name"
+  avatar           : "WechatIMG33.jpg"
+  name             : "David Xu"
   pronouns         : # example: "He/Him"  
   bio              : "2A Student at University of Waterloo"
   location         : "Waterloo ON"
