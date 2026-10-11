@@ -14,9 +14,9 @@ My academic journey is complemented by demonstrated leadership in both scholasti
 Through my studies and practical experiences, I am continuously exploring how quantitative analysis can drive better decision-making processes in the financial sector. Join me as I share my insights, projects, and the lessons I learn along the way.
 
 
-## Featured project: JobApply
+## Ongoing project: JobApply
 
-I built **JobApply**, a local Python application with a browser interface for preparing Canadian co-op and data internship applications. It brings together résumé evidence review, job-posting analysis, application drafts, and progress tracking, with a manual review step before using any generated material.
+I am developing **JobApply**, a local Python application with a browser interface that helps students organize Canadian co-op and data internship applications. The current prototype combines résumé evidence review, job-posting analysis, application drafts, and progress tracking. I am continuing to refine the workflows and test how they support my own application preparation, with human review required before using generated material.
 
 [Explore the project]({{ '/portfolio/jobapply/' | relative_url }}) · [View the code on GitHub](https://github.com/ZhihaoXu18/job-application-prep-agent)
 
